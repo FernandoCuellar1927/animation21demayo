@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(14, 125, 236);
+}
+
+.image-1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;     
+    animation-delay: 2.5s;
+}
+
+.image-2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -2;  
+    animation-delay: 2s;   
+}
+.image-3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -3;
+    animation-delay: 1s;     
+}
+.image-4 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -4;
+    animation-delay: .8s ;   
+}
+.image-5 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -5; 
+    animation-delay: .5s  ;    
+}
+.image-6 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -6;
+     
+}
+
+#fusion {
+    position: relative;
+}
